@@ -1,2 +1,2 @@
-# projeto-tela-login
-Projeto simples e não funcional de tela de login totalmente responsiva
+Projeto simples e não funcional de tela de login totalmente responsiva.
+Projeto simples feito utilizando apenas HTML e CSS, que demonstra alta compatiblidade com qualquer tipo de tela utilizando a tecnologia dos media queries para adaptar o site a qualquer dispositivo, sem que perca sua responsibilidade e proporcionalidade. Para ver funcionando em tempo real acesse: https://d34uthy.github.io/projeto-tela-login
